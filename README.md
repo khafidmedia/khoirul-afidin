@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, saya Khoirul Afidin</h1>
-<h3 align="center">Saya seorang mahasiswa yang sedang belajar bahasa pemrograman, mohon bimbingan dan arahannya.....terimakasih</h3>
+<h3 align="center">Saya seorang pelajar yang sedang belajar bahasa pemrograman, mohon bimbingan dan arahannya.....terimakasih</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khafidmedia&label=Profile%20views&color=0e75b6&style=flat" alt="khafidmedia" /> </p>
 
