@@ -11,7 +11,7 @@
 
 - 📫 Cara menghubungi saya **Instagram (aafiidd) & TikTok (2008/@afiiid_03)**
 
-- ⚡ Fakta menarik **Saya tidak pernah menyangka akan masuk dan terjun ke dunia pengembangan perangkat lunak dan gim, meskipun awalnya saya bingung karena belum berpengalaman, tetapi sedikit demi sedikit saya mulai mengerti dan memahami, meskipun banyak rintangan.... namanya juga coding, pasti ada rintangan dan masalahnya :)**
+- ⚡ Fakta menarik **Saya tidak pernah menyangka akan masuk dan terjun ke dunia pengembangan perangkat lunak dan gim, meskipun awalnya saya bingung karena belum berpengalaman, tetapi sedikit demi sedikit saya mulai mengerti dan memahami,yaa walaupun pasti selalu ada aja rintangan dan masalahnya entah itu bug ataupun error :)**
 
 <h3 align="left">Hubungi saya:</h3>
 <p align="left">
